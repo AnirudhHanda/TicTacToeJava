@@ -62,5 +62,3 @@ Contributions are welcome! If you have any improvements or feature suggestions, 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details. 📃
 
 ---
-
-Feel free to modify and enhance this `README.md` to provide more details about your implementation or any specific instructions for running and playing your game. Enjoy sharing your Tic Tac Toe game with others! 🎉
